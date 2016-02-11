@@ -1,0 +1,10 @@
+12
+node 10, 1.0, 1.0, 25.0
+node 20, 2.0, 2.0, 20.0
+node 30, 4.0, 4.0, 17.0
+node 35, 5.0, 5.0, 21.0
+node 50, 4.0, 7.0, 19.0
+bcst from 10
+bcst from 35
+bcst from 20
+bcst from 35

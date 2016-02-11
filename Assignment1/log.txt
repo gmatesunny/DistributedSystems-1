@@ -1,0 +1,24 @@
+bs 10,20,30,35,50
+added 10-20
+added 30-35
+added 50-35
+elected 20
+elected 50
+bs 20,50
+added 20-30
+elected 50
+bs 50
+data from 10 to 20, energy:23.3029
+data from 20 to 30, energy:16.6059
+data from 30 to 35, energy:15.3029
+data from 35 to 50, energy:18.3167
+data from 35 to 30, energy:16.6197
+data from 35 to 50, energy:13.9364
+data from 30 to 20, energy:11.9088
+data from 20 to 10, energy:14.9088
+node down 30
+data from 20 to 10, energy:13.2118
+data from 20 to 35, energy:8.12061
+data from 35 to 50, energy:11.2531
+node down 20
+node down 35

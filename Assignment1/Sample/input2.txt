@@ -1,0 +1,10 @@
+12
+node 3, 5.5, 10.3, 13.0
+node 9, 7.3, 12.2, 20.0
+node 5, 22.0, 44.0, 17.0
+node 7, 25.0, 43.0, 21.0
+node 4, 234.0, 237.0, 19.0
+bcst from 3
+bcst from 9
+bcst from 7
+bcst from 4

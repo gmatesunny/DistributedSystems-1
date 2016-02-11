@@ -1,0 +1,11 @@
+bs 50,35,20,10,30
+added 35-50
+added 10-20
+added 30-35
+elected 50
+elected 20
+bs 50,20
+added 20-30
+elected 50
+bs 50
+

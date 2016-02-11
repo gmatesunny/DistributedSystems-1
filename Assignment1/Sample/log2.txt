@@ -1,0 +1,9 @@
+bs 3,4,5,7,9
+added 3-9
+added 5-7
+elected 9
+elected 7
+bs 4,7,9
+data from 3 to 9, energy:9.859299441207426
+node down 3
+data from 7 to 5, energy:17.205266807797944
