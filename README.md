@@ -1,3 +1,3 @@
 # DistributedSystems
-The solution to distributed systems.
+The solution to distributed systems assignment.
 
